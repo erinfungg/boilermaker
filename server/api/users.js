@@ -1,3 +1,5 @@
+"use strict";
+
 // api/users.js
 const router = require("express").Router();
 
